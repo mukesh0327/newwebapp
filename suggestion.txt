@@ -1,0 +1,69 @@
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-6 p-2" style="box-shadow: 0px 4px 9px -4px;
+        background-color: rgba(120, 170, 214, 0.4);border-top: 6px solid #78aad6;">
+            <table>
+               <tr class="p-2">
+                  <td class="p-2">Name</td> 
+                  <th class="p-2">Parmod</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Email</td> 
+                  <th class="p-2">parmod@gmail.com</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Phone</td> 
+                  <th class="p-2">123456789525</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Suggestion</td> 
+                  <td class="p-2">The objective of the project is to design and develop Online House Repair Services Site. KHAMBRA HOUSE REPAIR SERVICE CENTER is a 'One Stop Solution' for all Renovation, Installation, Repair & Maintenance services for Offices & Homes and Solve the Problem of Unemployment. Hire experienced and professional Plumbers, Electricians, Carpenters and many more on a tap of a finger. which is a place for Customer and Service Providers to meet. This will act as an interface between them. </td> 
+               </tr>               
+            </table>  
+        </div>
+    </div>
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-6 p-2" style="box-shadow: 0px 4px 9px -4px;
+        background-color: rgba(120, 170, 214, 0.4);border-top: 6px solid #78aad6;">
+            <table>
+               <tr class="p-2">
+                  <td class="p-2">Name</td> 
+                  <th class="p-2">Parmod</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Email</td> 
+                  <th class="p-2">parmod@gmail.com</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Phone</td> 
+                  <th class="p-2">123456789525</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Suggestion</td> 
+                  <td class="p-2">The objective of the project is to design and develop Online House Repair Services Site. KHAMBRA HOUSE REPAIR SERVICE CENTER is a 'One Stop Solution' for all Renovation, Installation, Repair & Maintenance services for Offices & Homes and Solve the Problem of Unemployment. Hire experienced and professional Plumbers, Electricians, Carpenters and many more on a tap of a finger. which is a place for Customer and Service Providers to meet. This will act as an interface between them. </td> 
+               </tr>               
+            </table>  
+        </div>
+    </div>
+    <div class="row justify-content-center mb-4">
+        <div class="col-md-6 p-2" style="box-shadow: 0px 4px 9px -4px;
+        background-color: rgba(120, 170, 214, 0.4);border-top: 6px solid #78aad6;">
+            <table>
+               <tr class="p-2">
+                  <td class="p-2">Name</td> 
+                  <th class="p-2">Parmod</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Email</td> 
+                  <th class="p-2">parmod@gmail.com</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Phone</td> 
+                  <th class="p-2">123456789525</th> 
+               </tr>
+               <tr class="p-2">
+                  <td class="p-2">Suggestion</td> 
+                  <td class="p-2">The objective of the project is to design and develop Online House Repair Services Site. KHAMBRA HOUSE REPAIR SERVICE CENTER is a 'One Stop Solution' for all Renovation, Installation, Repair & Maintenance services for Offices & Homes and Solve the Problem of Unemployment. Hire experienced and professional Plumbers, Electricians, Carpenters and many more on a tap of a finger. which is a place for Customer and Service Providers to meet. This will act as an interface between them. </td> 
+               </tr>               
+            </table>  
+        </div>
+    </div>
